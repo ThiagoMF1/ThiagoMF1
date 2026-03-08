@@ -6,6 +6,10 @@
 
 <h1 style="color:white;">Thiago Machado Freire</h1>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=ThiagoMF1&style=flat-square&color=green">
+</p>
+
 <p style="color:white; font-size:18px;">
 Estudante de Ciência da Computação • Desenvolvimento Backend
 <br>
@@ -71,7 +75,6 @@ Currently seeking internship or junior backend developer opportunities.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
 ---
-
 
 ## Contribuições / Contributions
 
